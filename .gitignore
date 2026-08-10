@@ -6,3 +6,5 @@ main/
 *.pdf
 .vscode
 *.out
+main
+recursive
