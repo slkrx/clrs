@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "vector": "cpp",
-        "math.h": "c"
-    },
-    "cSpell.words": [
-        "avltree"
-    ]
-}
