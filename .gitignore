@@ -1,0 +1,8 @@
+**/env/
+env/
+main/
+**/main/
+*.dSYM/
+*.pdf
+.vscode
+*.out
