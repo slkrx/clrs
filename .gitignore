@@ -2,5 +2,6 @@
 env/
 main/
 **/main/
+*.dSYM/
 *.pdf
 .vscode
