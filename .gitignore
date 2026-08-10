@@ -8,3 +8,5 @@ main/
 *.out
 main
 recursive
+**/genarray
+in-place
