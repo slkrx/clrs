@@ -1,5 +1,6 @@
 **/env/
 env/
 main/
+**/main/
 *.pdf
 .vscode
